@@ -1,0 +1,4 @@
+# 运行状态与本地构建产物不进入版本控制。
+/data/
+/binance-monitor
+/bin/
